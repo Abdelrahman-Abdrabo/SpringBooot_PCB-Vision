@@ -1,0 +1,4 @@
+com\PCB\PCB_Vision\model\Defect$DefectBuilder.class
+com\PCB\PCB_Vision\model\User$UserBuilder.class
+com\PCB\PCB_Vision\model\Component$ComponentBuilder.class
+com\PCB\PCB_Vision\model\PCB$PCBBuilder.class
